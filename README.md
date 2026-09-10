@@ -42,8 +42,6 @@ pip install pandas numpy matplotlib seaborn
 * Create interactive dashboards for:
 
   * Global Incident Overview
-  * <img width="960" height="539" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3242bac6-deef-4b63-a4c4-2a9e31166b2f" />
-
   * Threat & Attacker Analysis
   * Impact & Risk Analysis
 * Use filters and slicers to explore the data interactively.
