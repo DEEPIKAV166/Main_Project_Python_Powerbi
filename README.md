@@ -21,12 +21,6 @@ Seaborn
 
 * Download or access the EuRepoC Global Dataset.
 * Upload the dataset to Google Colab .
-* Install the required Python libraries if they are not already available.
-
-```python
-pip install pandas numpy matplotlib seaborn
-```
-
 * Open the Power BI Desktop application.
 * Import the cleaned dataset into Power BI for visualization.
 
@@ -42,8 +36,14 @@ pip install pandas numpy matplotlib seaborn
 * Create interactive dashboards for:
 
   * Global Incident Overview
+    <img width="960" height="539" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2222e6a6-1d6d-42f7-a72d-399997916a1d" />
+
   * Threat & Attacker Analysis
+    <img width="960" height="538" alt="Dashboard 2" src="https://github.com/user-attachments/assets/01615f42-7a4b-4bb2-ac41-889fcba8fed0" />
+
   * Impact & Risk Analysis
+    <img width="960" height="538" alt="Dashboard 2" src="https://github.com/user-attachments/assets/9fd8c949-4058-413d-bc0b-8e30f8e6d6e8" />
+
 * Use filters and slicers to explore the data interactively.
 
 ## Help
