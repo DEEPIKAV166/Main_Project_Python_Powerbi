@@ -36,13 +36,17 @@ Seaborn
 * Create interactive dashboards for:
 
   * Global Incident Overview
+    
     <img width="960" height="539" alt="Dashboard 1" src="https://github.com/user-attachments/assets/2222e6a6-1d6d-42f7-a72d-399997916a1d" />
 
   * Threat & Attacker Analysis
+    
     <img width="960" height="538" alt="Dashboard 2" src="https://github.com/user-attachments/assets/01615f42-7a4b-4bb2-ac41-889fcba8fed0" />
 
   * Impact & Risk Analysis
-    <img width="960" height="538" alt="Dashboard 2" src="https://github.com/user-attachments/assets/9fd8c949-4058-413d-bc0b-8e30f8e6d6e8" />
+
+   <img width="958" height="540" alt="Dashboard 3" src="https://github.com/user-attachments/assets/cb9e9d32-a31d-4bc0-a2b2-2a2c0480ce2e" />
+
 
 * Use filters and slicers to explore the data interactively.
 
